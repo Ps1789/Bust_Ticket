@@ -1,0 +1,6 @@
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicket.Model\bin\Debug\BusTicket.Model.dll
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicket.Model\bin\Debug\BusTicket.Model.pdb
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicket.Model\obj\Debug\BusTicket.Model.csproj.AssemblyReference.cache
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicket.Model\obj\Debug\BusTicket.Model.csproj.CoreCompileInputs.cache
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicket.Model\obj\Debug\BusTicket.Model.dll
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicket.Model\obj\Debug\BusTicket.Model.pdb

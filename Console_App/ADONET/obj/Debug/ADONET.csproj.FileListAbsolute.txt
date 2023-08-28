@@ -1,0 +1,12 @@
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe.config
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\bin\Debug\ADONET.pdb
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.AssemblyReference.cache
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.CoreCompileInputs.cache
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\obj\Debug\ADONET.exe
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\obj\Debug\ADONET.pdb
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\bin\Debug\BusTicket.Model.dll
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\bin\Debug\BusTicketr.Access.dll
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\bin\Debug\BusTicket.Model.pdb
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\bin\Debug\BusTicketr.Access.pdb
+C:\Users\pushkar.singh\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.CopyComplete

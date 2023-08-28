@@ -1,0 +1,6 @@
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicketr.Access\bin\Debug\BusTicketr.Access.dll
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicketr.Access\bin\Debug\BusTicketr.Access.pdb
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicketr.Access\obj\Debug\BusTicketr.Access.csproj.AssemblyReference.cache
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicketr.Access\obj\Debug\BusTicketr.Access.csproj.CoreCompileInputs.cache
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicketr.Access\obj\Debug\BusTicketr.Access.dll
+C:\Users\pushkar.singh\source\repos\ADONET\BusTicketr.Access\obj\Debug\BusTicketr.Access.pdb
